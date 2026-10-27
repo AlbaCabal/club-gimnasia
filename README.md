@@ -32,7 +32,7 @@ En función de las necesidades del club y del tiempo restante, se podrán incorp
 ## Integrantes
 
 - Alba Vera @AlbaCabal
-- Robert Bica @RobertBica
+- Robert Bica MOya @RobertBica
 - Adrián Hernández @Adrian-hernandez-lluch
 
 ## Estructura del proyecto
